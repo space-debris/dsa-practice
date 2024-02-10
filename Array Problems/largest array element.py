@@ -1,4 +1,4 @@
-def largestElement(arr: [], n: int) -> int:
+def largestElement(arr, n):
 
     # Write your code from here.
     largest=0
